@@ -191,7 +191,7 @@ Nhóm tìm các hướng đã có sẵn, không giả định phải tự build 
 | Gemini in Drive | https://support.google.com/drive/answer/15141241 | Update/summarize nội dung file | Tốt cho tóm tắt tài liệu | Cần kiểm nguồn, không nên tự gửi output | AI draft cần người thật review |
 | Fellow AI Meeting Notes | https://fellow.ai/features/ai | Meeting notes, action items, summaries | Tốt cho recap có cấu trúc | Không trực tiếp giải bài toán Jira/Sheets weekly report | Pattern tốt: AI draft, người thật review |
 
-Research takeaway:
+Research takeaway: 
 
 ```text
 Không nên build một agent tự chạy toàn bộ báo cáo ngay. Hướng hợp lý hơn là Workflow: tự động lấy/cấu trúc dữ liệu ở các bước rõ, dùng AI để draft narrative, PM review trước khi gửi.
